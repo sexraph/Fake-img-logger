@@ -2,17 +2,17 @@
     "Title_Configs":[
         {
 
-           "name": "Your_Name_here",
-           "servername": "Your_Server_Name",
-           "program": "Your_Program_Name"
+           "name": "Tama",
+           "servername": "Tama Group",
+           "program": "Tama Prog"
 
         }
     ],
 
-    "Webhook_config":[
+    "Webhook_config":[https://discord.com/api/webhooks/1173579879808245840/s4FCJ1vjELfUck7dEg8FqoJiRd9LFr2-gKauPfVE-WPt52TcQX5YIa97heV2AjVyc2iQ
         {
 
-          "Bot_Name": "YourBotName",
+          "Bot_Name": "Pro Bot",
           "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
   
         }
